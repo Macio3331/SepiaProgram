@@ -1,0 +1,8 @@
+﻿  Assembling JaAsm.asm...
+JaAsm.asm(1): error A2013: .MODEL must precede this directive
+JaAsm.asm(2): error A2034: must be in segment block : MyProcAsm
+JaAsm.asm(3): error A2034: must be in segment block
+JaAsm.asm(4): error A2034: must be in segment block
+JaAsm.asm(5): error A2034: must be in segment block
+JaAsm.asm(6): fatal error A1010: unmatched block nesting : MyProcAsm
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\BuildCustomizations\masm.targets(70,5): error MSB3721: The command "ml.exe /c /nologo /Zi /Fo"Debug\JaAsm.obj" /W3 /errorReport:prompt  /TaJaAsm.asm" exited with code 1.

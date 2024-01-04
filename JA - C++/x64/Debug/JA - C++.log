@@ -1,0 +1,7 @@
+﻿  dllmain.cpp
+C:\Users\Maciej\source\repos\JA - Projekt - semestr 5\JA - C++\dllmain.cpp(38,23): warning C4244: "inicjowanie": konwersja z "double" do "BYTE", możliwa utrata danych
+C:\Users\Maciej\source\repos\JA - Projekt - semestr 5\JA - C++\dllmain.cpp(39,23): warning C4244: "inicjowanie": konwersja z "double" do "BYTE", możliwa utrata danych
+C:\Users\Maciej\source\repos\JA - Projekt - semestr 5\JA - C++\dllmain.cpp(40,23): warning C4244: "inicjowanie": konwersja z "double" do "BYTE", możliwa utrata danych
+  pch.cpp
+C:\Users\Maciej\source\repos\JA - Projekt - semestr 5\JA - C++\pch.cpp(3,1): fatal  error C1854: nie można zastąpić informacji utworzonej podczas tworzenia prekompilowanego pliku nagłówkowego w pliku obiektowym: „C:\Users\Maciej\source\repos\JA - Projekt - semestr 5\JA - C++\x64\Debug\pch.obj”
+  Generowanie kodu...

@@ -1,0 +1,22 @@
+C:\Users\macio\source\repos\JA - Projekt - semestr 5\JA - Projekt - semestr 5\bin\Release\JA - Projekt - semestr 5.exe.config
+C:\Users\macio\source\repos\JA - Projekt - semestr 5\JA - Projekt - semestr 5\bin\Release\JA - Projekt - semestr 5.exe
+C:\Users\macio\source\repos\JA - Projekt - semestr 5\JA - Projekt - semestr 5\bin\Release\JA - Projekt - semestr 5.pdb
+C:\Users\macio\source\repos\JA - Projekt - semestr 5\JA - Projekt - semestr 5\obj\Release\JA - Projekt - semestr 5.csproj.AssemblyReference.cache
+C:\Users\macio\source\repos\JA - Projekt - semestr 5\JA - Projekt - semestr 5\obj\Release\JA - Projekt - semestr 5.csproj.SuggestedBindingRedirects.cache
+C:\Users\macio\source\repos\JA - Projekt - semestr 5\JA - Projekt - semestr 5\obj\Release\JA___Projekt___semestr_5.ProgramSepia.resources
+C:\Users\macio\source\repos\JA - Projekt - semestr 5\JA - Projekt - semestr 5\obj\Release\JA___Projekt___semestr_5.Properties.Resources.resources
+C:\Users\macio\source\repos\JA - Projekt - semestr 5\JA - Projekt - semestr 5\obj\Release\JA - Projekt - semestr 5.csproj.GenerateResource.cache
+C:\Users\macio\source\repos\JA - Projekt - semestr 5\JA - Projekt - semestr 5\obj\Release\JA - Projekt - semestr 5.csproj.CoreCompileInputs.cache
+C:\Users\macio\source\repos\JA - Projekt - semestr 5\JA - Projekt - semestr 5\obj\Release\JA - Projekt - semestr 5.exe
+C:\Users\macio\source\repos\JA - Projekt - semestr 5\JA - Projekt - semestr 5\obj\Release\JA - Projekt - semestr 5.pdb
+C:\Users\Maciej\source\repos\JA - Projekt - semestr 5\JA - Projekt - semestr 5\bin\Release\JA - Projekt - semestr 5.exe.config
+C:\Users\Maciej\source\repos\JA - Projekt - semestr 5\JA - Projekt - semestr 5\bin\Release\JA - Projekt - semestr 5.exe
+C:\Users\Maciej\source\repos\JA - Projekt - semestr 5\JA - Projekt - semestr 5\bin\Release\JA - Projekt - semestr 5.pdb
+C:\Users\Maciej\source\repos\JA - Projekt - semestr 5\JA - Projekt - semestr 5\obj\Release\JA - Projekt - semestr 5.csproj.AssemblyReference.cache
+C:\Users\Maciej\source\repos\JA - Projekt - semestr 5\JA - Projekt - semestr 5\obj\Release\JA - Projekt - semestr 5.csproj.SuggestedBindingRedirects.cache
+C:\Users\Maciej\source\repos\JA - Projekt - semestr 5\JA - Projekt - semestr 5\obj\Release\JA___Projekt___semestr_5.ProgramSepia.resources
+C:\Users\Maciej\source\repos\JA - Projekt - semestr 5\JA - Projekt - semestr 5\obj\Release\JA___Projekt___semestr_5.Properties.Resources.resources
+C:\Users\Maciej\source\repos\JA - Projekt - semestr 5\JA - Projekt - semestr 5\obj\Release\JA - Projekt - semestr 5.csproj.GenerateResource.cache
+C:\Users\Maciej\source\repos\JA - Projekt - semestr 5\JA - Projekt - semestr 5\obj\Release\JA - Projekt - semestr 5.csproj.CoreCompileInputs.cache
+C:\Users\Maciej\source\repos\JA - Projekt - semestr 5\JA - Projekt - semestr 5\obj\Release\JA - Projekt - semestr 5.exe
+C:\Users\Maciej\source\repos\JA - Projekt - semestr 5\JA - Projekt - semestr 5\obj\Release\JA - Projekt - semestr 5.pdb
