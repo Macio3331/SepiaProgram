@@ -113,18 +113,18 @@ loop1:
 	endloop2:
 		mov rax, 2					; wpisanie 2 do rax - przygotowanie do porównania
 		cmp r12, rax				; porównanie reszty w r12 z 2
-		je add_offset1				; skok do dodania 1, jeœli elementy s¹ równe
+		je sub_offset1				; skok do dodania 1, jeœli elementy s¹ równe
 		mov rax, 1					; wpisanie 1 do rax - przygotowanie do porównania
 		cmp r12, rax				; porównianie reszty w r12 z 1
-		je add_offset2				; skok do dodania 1, jeœli elementy s¹ równe
+		je sub_offset2				; skok do dodania 1, jeœli elementy s¹ równe
 		jmp loop1					; skok do kolejnej iteracji pêtli zewnêtrznej
 
-	add_offset1:
-		add r10, 1					; dodanie 1 do offsetu
+	sub_offset1:
+		sub r10, 1					; dodanie 1 do offsetu
 		jmp loop1					; skok do kolejnej iteracji pêtli zewnêtrznej
 
-	add_offset2:
-		add r10, 2					; dodanie 2 do offsetu
+	sub_offset2:
+		sub r10, 2					; dodanie 2 do offsetu
 		jmp loop1					; skok do kolejnej iteracji pêtli zewnêtrznej
 
 endloop1:

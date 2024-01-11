@@ -32,10 +32,10 @@ namespace JA___Projekt___semestr_5
     
     public partial class ProgramSepia : Form
     {
-        [DllImport(@"C:\Users\Maciej\source\repos\JA - Projekt - semestr 5\x64\Release\JA - Asembler.dll")]
+        [DllImport(@"C:\Users\macio\source\repos\JA - Projekt - semestr 5\x64\Release\JA - Asembler.dll")]
         static extern void MyProcAsm(byte[] data, int offset, int amount, int stride);
 
-        [DllImport(@"C:\Users\Maciej\source\repos\JA - Projekt - semestr 5\x64\Release\JA - C++.dll")]
+        [DllImport(@"C:\Users\macio\source\repos\JA - Projekt - semestr 5\x64\Release\JA - C++.dll")]
         static extern void MyProcCpp(byte[] data, int offset, int amount, int stride);
 
         private delegate void MyProc(byte[] data, int offset, int amount, int stride);
@@ -142,24 +142,6 @@ namespace JA___Projekt___semestr_5
             }
             stopwatch.Stop();
 
-            /*Stopwatch stopwatch = new Stopwatch();
-            stopwatch.Start();
-            Parallel.For(0, numberOfThreads, (i, progressBar) => {
-                int offset = i * amount;
-                if (i < rest)
-                {
-                    offset += bitmapData.Stride * i;
-                    func(data, offset, amount + bitmapData.Stride, bitmapData.Stride);
-                }
-                else
-                {
-                    offset += bitmapData.Stride * rest;
-                    func(data, offset, amount, bitmapData.Stride);
-                }
-                progressBar.PerformStep();
-            });
-            stopwatch.Stop();*/
-
             Marshal.Copy(data, 0, bitmapPointer, bytesCount);
             bitmap.UnlockBits(bitmapData);
 
@@ -167,11 +149,11 @@ namespace JA___Projekt___semestr_5
 
             progressBar.Visible = false;
 
-            /*SaveFileDialog saveFileDialog = new SaveFileDialog();
+            SaveFileDialog saveFileDialog = new SaveFileDialog();
             saveFileDialog.Filter = "JPG and JPEG files (*.jpg; *.jpeg)|*.jpg;*.jpeg";
             saveFileDialog.Title = "Wybierz plik";
             saveFileDialog.FilterIndex = 1;
-            if (saveFileDialog.ShowDialog() == DialogResult.OK) bitmap.Save(saveFileDialog.FileName, ImageFormat.Jpeg);*/
+            if (saveFileDialog.ShowDialog() == DialogResult.OK) bitmap.Save(saveFileDialog.FileName, ImageFormat.Jpeg);
 
             labelMessage.Text = "Czas wykonania: " + stopwatch.ElapsedMilliseconds + "ms";
         }
